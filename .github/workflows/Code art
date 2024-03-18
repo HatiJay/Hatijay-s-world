@@ -1,0 +1,10 @@
+a = "    *    "
+b = "   ***   "
+c = "  *****  "
+
+#displaying the art
+print(a)
+print(b)
+print(c)
+print(b)
+print(a)
