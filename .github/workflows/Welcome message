@@ -1,0 +1,8 @@
+#declaring variables
+welcome = "Hello! Hope you are well " 
+name = "Hatice"
+age = 28
+
+#displaying welcome message on screen 
+print(welcome + name)
+print("You are" + age + "years old")
